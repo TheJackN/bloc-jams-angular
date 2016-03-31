@@ -1,16 +1,16 @@
 {
-  "name": "bloc-frontend-project-starter",
+  "name": "bloc-jams-angular",
   "version": "0.0.2",
-  "description": "Starter project for the Bloc Frontend Web Development",
+  "description": "Angular-Powered Music Player",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bloc/bloc-frontend-project-starter.git"
+    "url": "git+https://github.com/TheJackN/bloc-jams-angular.git"
   },
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
-  "author": "Bloc Inc",
+  "author": "TheJackN",
   "license": "ISC",
   "dependencies": {
     "hapi": "~7.5.0",
@@ -27,7 +27,7 @@
     "grunt-hapi": "^0.8.1"
   },
   "bugs": {
-    "url": "https://github.com/bloc/bloc-frontend-project-starter/issues"
+    "url": "https://github.com/TheJackN/bloc-jams-angular/issues"
   },
-  "homepage": "https://github.com/bloc/bloc-frontend-project-starter#readme"
+  "homepage": "https://github.com/TheJackN/bloc-jams-angular#readme"
 }
